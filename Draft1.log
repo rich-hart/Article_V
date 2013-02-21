@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  21 FEB 2013 14:12
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  21 FEB 2013 14:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Notes.tex
-(./Notes.tex
+**Draft1.tex
+(./Draft1.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
 rman-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabi
@@ -445,21 +445,21 @@ Package tocloft Info: The document has section divisions on input line 43.
 \cftsubtabindent=\skip98
 \cftsubtabnumwidth=\skip99
 )
-(./Notes.aux)
-\openout1 = `Notes.aux'.
+(./Draft1.aux)
+\openout1 = `Draft1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -555,52 +555,93 @@ e
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 71.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 72.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 72.
  [1
 
-{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 214.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 214.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 214.
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
 
+LaTeX Warning: Reference `sec:ArticleVIUS' on page 3 undefined on input line 15
+9.
+
+
+LaTeX Warning: Reference `sec:ArticleISection4US' on page 3 undefined on input 
+line 161.
+
+
+LaTeX Warning: Reference `sec:ArticleISection4US' on page 3 undefined on input 
+line 163.
+
+
+LaTeX Warning: Reference `sec:ArticleVUS' on page 3 undefined on input line 165
+.
+
+
+LaTeX Warning: Reference `sec:ArticleIISection1PA' on page 3 undefined on input
+ line 171.
+
+
+LaTeX Warning: Reference `sec:ArticleISection5PA' on page 3 undefined on input 
+line 178.
+
+
+LaTeX Warning: Reference `sec:ArticleVISection3PA' on page 3 undefined on input
+ line 180.
+
+[3]
+
+LaTeX Warning: Reference `sec:ArticleISection5PA' on page 4 undefined on input 
+line 205.
+
+
+LaTeX Warning: Citation `OpenSecretsWins' on page 4 undefined on input line 215
+.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 215.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 215.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 215.
 
 LaTeX Warning: Citation `OpenSecretsDemographics13' on page 4 undefined on inpu
-t line 214.
+t line 215.
 
 [4]
-Overfull \hbox (9.85141pt too wide) in paragraph at lines 242--244
+Overfull \hbox (9.85141pt too wide) in paragraph at lines 243--245
 []\OT1/cmr/m/n/10.95 for ex-am-ple!!!!! (Ok-la-homa http://www.youtube.com/watc
 h?v=0lXcgUBnYMI
  []
 
-[5] [6] [7] (./Notes.bbl) [8] (./Notes.aux)
+[5] [6] [7]
+No file Draft1.bbl.
+[8] (./Draft1.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 4137 strings out of 493488
- 62481 string characters out of 3141326
- 132195 words of memory out of 3000000
+ 4135 strings out of 493488
+ 62470 string characters out of 3141326
+ 132165 words of memory out of 3000000
  7385 multiletter control sequences out of 15000+200000
  9698 words of font info for 34 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 44i,11n,43p,1542b,331s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,11n,43p,1543b,335s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></
 usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></u
 sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Notes.pdf (8 pages, 79676 bytes).
+Output written on Draft1.pdf (8 pages, 79680 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
