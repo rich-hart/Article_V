@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  21 FEB 2013 14:17
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  21 FEB 2013 16:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -555,72 +555,99 @@ e
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 72.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 62.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 62.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 62.
 
+
+LaTeX Warning: No \author given.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 74.
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 72.
- [1
-
-{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-
-LaTeX Warning: Reference `sec:ArticleVIUS' on page 3 undefined on input line 15
-9.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 74.
 
 
-LaTeX Warning: Reference `sec:ArticleISection4US' on page 3 undefined on input 
-line 161.
+LaTeX Warning: Citation `OpenSecretsWins' on page 1 undefined on input line 83.
 
 
-LaTeX Warning: Reference `sec:ArticleISection4US' on page 3 undefined on input 
-line 163.
+[1
+
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Citation `OpenSecretsDemographics13' on page 2 undefined on inpu
+t line 85.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 89.
+
+Overfull \hbox (7.52454pt too wide) in paragraph at lines 100--112
+[][] 
+ []
 
 
-LaTeX Warning: Reference `sec:ArticleVUS' on page 3 undefined on input line 165
+LaTeX Warning: Citation `OpenSecretsWins' on page 2 undefined on input line 119
 .
 
 
-LaTeX Warning: Reference `sec:ArticleIISection1PA' on page 3 undefined on input
- line 171.
+LaTeX Warning: Citation `OpenSecretsDemographics13' on page 2 undefined on inpu
+t line 119.
+
+[2] [3] [4]
+
+LaTeX Warning: Reference `sec:ArticleVIUS' on page 5 undefined on input line 22
+5.
 
 
-LaTeX Warning: Reference `sec:ArticleISection5PA' on page 3 undefined on input 
-line 178.
+LaTeX Warning: Reference `sec:ArticleISection4US' on page 5 undefined on input 
+line 227.
 
 
-LaTeX Warning: Reference `sec:ArticleVISection3PA' on page 3 undefined on input
- line 180.
-
-[3]
-
-LaTeX Warning: Reference `sec:ArticleISection5PA' on page 4 undefined on input 
-line 205.
+LaTeX Warning: Reference `sec:ArticleISection4US' on page 5 undefined on input 
+line 229.
 
 
-LaTeX Warning: Citation `OpenSecretsWins' on page 4 undefined on input line 215
+LaTeX Warning: Reference `sec:ArticleVUS' on page 5 undefined on input line 231
 .
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 215.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 215.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 215.
+[5]
 
-LaTeX Warning: Citation `OpenSecretsDemographics13' on page 4 undefined on inpu
-t line 215.
+LaTeX Warning: Reference `sec:ArticleIISection1PA' on page 6 undefined on input
+ line 237.
 
-[4]
-Overfull \hbox (9.85141pt too wide) in paragraph at lines 243--245
+
+LaTeX Warning: Reference `sec:ArticleISection5PA' on page 6 undefined on input 
+line 244.
+
+
+LaTeX Warning: Reference `sec:ArticleVISection3PA' on page 6 undefined on input
+ line 246.
+
+[6]
+
+LaTeX Warning: Reference `sec:ArticleISection5PA' on page 7 undefined on input 
+line 271.
+
+
+LaTeX Warning: Citation `OpenSecretsWins' on page 7 undefined on input line 281
+.
+
+
+LaTeX Warning: Citation `OpenSecretsDemographics13' on page 7 undefined on inpu
+t line 281.
+
+[7]
+Overfull \hbox (9.85141pt too wide) in paragraph at lines 309--311
 []\OT1/cmr/m/n/10.95 for ex-am-ple!!!!! (Ok-la-homa http://www.youtube.com/watc
 h?v=0lXcgUBnYMI
  []
 
-[5] [6] [7]
-No file Draft1.bbl.
-[8] (./Draft1.aux)
+[8] [9] [10] (./Draft1.bbl) [11] (./Draft1.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -629,22 +656,24 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 4135 strings out of 493488
- 62470 string characters out of 3141326
- 132165 words of memory out of 3000000
- 7385 multiletter control sequences out of 15000+200000
- 9698 words of font info for 34 fonts, out of 3000000 for 9000
+ 4146 strings out of 493488
+ 62608 string characters out of 3141326
+ 133165 words of memory out of 3000000
+ 7392 multiletter control sequences out of 15000+200000
+ 10612 words of font info for 37 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 44i,11n,43p,1543b,335s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,11n,43p,1543b,403s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></
-usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></u
-sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Draft1.pdf (8 pages, 79680 bytes).
+/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
+/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/
+local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/l
+ocal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Draft1.pdf (11 pages, 106895 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 68 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
