@@ -3,47 +3,52 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Draft1.aux
 The style file: plain.bst
 Database file #1: References.bib
+Warning--I didn't find a database entry for "Santarsiero"
 Warning--to sort, need author or key in OpenSecretsWins
 Warning--to sort, need author or key in OpenSecretsDemographics13
-You've used 2 entries,
+Warning--empty journal in Ano
+Warning--empty year in Ano
+Warning--empty journal in Greenberg2010
+Warning--empty journal in Poll2012
+You've used 5 entries,
             2118 wiz_defined-function locations,
-            503 strings with 4214 characters,
-and the built_in function-call counts, 316 in all, are:
-= -- 24
-> -- 2
-< -- 0
-+ -- 2
-- -- 0
-* -- 12
-:= -- 37
-add.period$ -- 2
-call.type$ -- 2
-change.case$ -- 6
+            521 strings with 4883 characters,
+and the built_in function-call counts, 1693 in all, are:
+= -- 146
+> -- 111
+< -- 2
++ -- 45
+- -- 40
+* -- 124
+:= -- 273
+add.period$ -- 11
+call.type$ -- 5
+change.case$ -- 35
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 14
-empty$ -- 47
-format.name$ -- 0
-if$ -- 75
+cite$ -- 11
+duplicate$ -- 56
+empty$ -- 117
+format.name$ -- 40
+if$ -- 345
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 0
-newline$ -- 9
-num.names$ -- 0
-pop$ -- 16
+int.to.str$ -- 5
+missing$ -- 3
+newline$ -- 24
+num.names$ -- 6
+pop$ -- 53
 preamble$ -- 1
-purify$ -- 4
+purify$ -- 30
 quote$ -- 0
-skip$ -- 20
+skip$ -- 52
 stack$ -- 0
-substring$ -- 10
-swap$ -- 2
-text.length$ -- 0
+substring$ -- 60
+swap$ -- 12
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 8
-warning$ -- 2
-while$ -- 0
-width$ -- 3
-write$ -- 12
-(There were 2 warnings)
+type$ -- 20
+warning$ -- 6
+while$ -- 12
+width$ -- 6
+write$ -- 40
+(There were 7 warnings)
